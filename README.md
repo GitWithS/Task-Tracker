@@ -68,8 +68,10 @@ Explore useful guides from the official docs:-
 - Advanced Configuration
 📬 Contributions
 Open to improvements and enhancements — feel free to fork, contribute, and submit pull requests.
+
 🧑‍💻 Author
 Maintained by GitWithS
+
 ⭐️ Show Some Love
 If you found this project helpful, please give it a ⭐️ on GitHub!
 ---
